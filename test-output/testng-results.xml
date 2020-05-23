@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="125112" started-at="2020-05-23T23:57:08 IST" finished-at="2020-05-23T23:59:13 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="125112" started-at="2020-05-23T23:57:08 IST" finished-at="2020-05-23T23:59:13 IST">
+      <class name="com.ebay.tests.AppTest">
+        <test-method status="PASS" signature="beforeTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.ebay.tests.AppTest@51c8530f]" name="beforeTest" is-config="true" duration-ms="7356" started-at="2020-05-23T23:57:08 IST" finished-at="2020-05-23T23:57:15 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ANDROID]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[10]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Nokia 2.2]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[N000TA1183952703048]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.ebay.tests.AppTest@51c8530f]" name="beforeClass" is-config="true" duration-ms="4115" started-at="2020-05-23T23:57:15 IST" finished-at="2020-05-23T23:57:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.ebay.tests.AppTest@51c8530f]" name="beforeMethod" is-config="true" duration-ms="195" started-at="2020-05-23T23:57:19 IST" finished-at="2020-05-23T23:57:19 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.ebay.tests.AppTest.validLogin()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="validLogin()[pri:1, instance:com.ebay.tests.AppTest@51c8530f]" name="validLogin" duration-ms="111813" started-at="2020-05-23T23:57:19 IST" finished-at="2020-05-23T23:59:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validLogin -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.ebay.tests.AppTest@51c8530f]" name="afterMethod" is-config="true" duration-ms="0" started-at="2020-05-23T23:59:11 IST" finished-at="2020-05-23T23:59:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.ebay.tests.AppTest@51c8530f]" name="afterClass" is-config="true" duration-ms="1" started-at="2020-05-23T23:59:11 IST" finished-at="2020-05-23T23:59:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.ebay.tests.AppTest@51c8530f]" name="afterTest" is-config="true" duration-ms="1589" started-at="2020-05-23T23:59:11 IST" finished-at="2020-05-23T23:59:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.ebay.tests.AppTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
